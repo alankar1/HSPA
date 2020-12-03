@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "myfirstapp-ak"
+  },
+  "targets": {
+    "myfirstapp-ak": {
+      "hosting": {
+        "my-first-app": [
+          "myfirstapp-ak"
+        ]
+      }
+    }
+  }
+}
